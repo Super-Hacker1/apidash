@@ -1,5 +1,8 @@
 export 'intermediate_rep_gen.dart';
 export 'semantic_analyser.dart';
+export 'api_assertion_generation.dart';
+export 'api_chain_builder.dart';
+export 'api_failure_explanation.dart';
 export 'stac_to_flutter.dart';
 export 'stacgen.dart';
 export 'stacmodifier.dart';

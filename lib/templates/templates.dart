@@ -6,3 +6,6 @@ export 'system_prompt_templates/stac_to_flutter_prompt.dart';
 export 'system_prompt_templates/stac_gen_prompt.dart';
 export 'system_prompt_templates/stac_modifier_prompt.dart';
 export 'tool_templates.dart';
+export 'system_prompt_templates/api_assertion_generation_prompt.dart';
+export 'system_prompt_templates/api_chain_builder_prompt.dart';
+export 'system_prompt_templates/api_failure_explanation_prompt.dart';
